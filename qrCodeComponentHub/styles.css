@@ -9,20 +9,39 @@ body{
     background-color: rgba(213, 225, 239, 1);
 }
 .section1{
-    height: 25rem;
+    height: 30rem;
     width: 20rem;
+    border-radius: 1rem;
     background-color: white;
 }
 main{
-    /* justify-items: center;
-    align-items: center; */
-    padding-top:  10rem;
+     padding-top:  9rem;
     padding-left: 30rem;
-    padding-bottom: 15rem;
+    padding-bottom: 15rem; 
 }
 .section1 img{
-    height: 16rem;
+    height: 20rem;
     width: 19rem;
     padding-left: 1rem;
     padding-top: 1rem;
+    border-radius: 2rem;
+}
+
+h1 { 
+    margin: 2rem;
+    margin-top: 12px;
+    font-size: 22.5px
+}
+.firstP{
+    margin: 3rem;
+    margin-top: -1rem;
+    font-size: 14px;
+}
+.scndP{
+    margin: 2rem;
+    margin-top: -3rem;
+}
+.thirdP{
+    margin: 6rem;
+    margin-top: -2rem;
 }
