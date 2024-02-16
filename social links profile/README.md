@@ -4,9 +4,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Overview](#)
-  - [The challenge](#Social Link Profile using HTML & CSS)
-  - [MY Image] (#1683322143608.jpg)
+- [Overview](#overview)
+  - [The challenge](#the_challenge)
+  - [MY Image] (#my_image)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
